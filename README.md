@@ -1,2 +1,2 @@
 # alx-zero_day
-My frist readme
+My first readme
